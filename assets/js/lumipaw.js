@@ -1,31 +1,31 @@
 const products = [
     {
         name: "AquaPaws",
-        price: "$25,000",
+        price: "$9,000",
         description: "Jabón que limpia y refresca.",
         image: "assets/images/AquaPaws.jpg",
     },
     {
         name: "EcoFur",
-        price: "$25,000",
+        price: "$9,000",
         description: "Jabón ecológico para mascotas.",
         image: "assets/images/EcoFur.jpg",
     },
     {
         name: "HerbaWash",
-        price: "$25,000",
+        price: "$9,000",
         description: "Jabón herbal para un pelaje suave.",
         image: "assets/images/HerbaWash.jpg",
     },
     {
         name: "LumiFresh",
-        price: "$25,000",
+        price: "$9,000",
         description: "Jabón que deja un aroma fresco.",
         image: "assets/images/LumiFresh.jpg",
     },
     {
         name: "NaturePaw",
-        price: "$25,000",
+        price: "$9,000",
         description: "Jabón natural para todo tipo de piel.",
         image: "assets/images/NaturePaw.jpg",
     },
